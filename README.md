@@ -1,7 +1,12 @@
 # neuro
-Neurophysiology, especially voltage traces
+Neurophysiology, especially voltage traces Primarily to scrape images of voltage/current plots and analyze them semantically.
 
-Primarily to scrape images of voltage/current plots and analyze them semantically.
+The whole project is run as Open NotebookScience https://en.wikipedia.org/wiki/Open_notebook_science and everything should either be in this repo or accessible from it. 
+
+* Raw data will be stored in this repo. (Copyrighted material may be omitted).
+* IPython (Jupyter) will be used as the primary recording mechanism
+* analysis software (e.g `diagramanalyzer` will be modified to create log files which will be posted alongside the computed data
+
 
 Currently the analysis software is in https://bitbucket.org/petermr/diagramanalyzer/ - see NeuroAnalyzerTest for the latest prototype.
 

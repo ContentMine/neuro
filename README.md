@@ -5,3 +5,4 @@ Primarily to scrape images of voltage/current plots and analyze them semanticall
 
 Currently the analysis software is in https://bitbucket.org/petermr/diagramanalyzer/ - see NeuroAnalyzerTest for the latest prototype.
 
+There is a scraper for J. Neuroscience in jneuro.json . 
